@@ -1,0 +1,28 @@
+{
+  "name": "tiny-terminal-colors",
+  "version": "1.0.0",
+  "description": "A simple ANSI styling library for terminal colors",
+  "homepage": "https://github.com/PatelAbhay550/tiny-terminal-colors#readme",
+  "bugs": {
+    "url": "https://github.com/PatelAbhay550/tiny-terminal-colors/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PatelAbhay550/tiny-terminal-colors.git"
+  },
+  "license": "MIT",
+  "keywords": [
+    "terminal",
+    "colors",
+    "ansi",
+    "styling",
+    "nodejs",
+    "console-library"
+  ],
+  "author": "Abhay Patel",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  }
+}
