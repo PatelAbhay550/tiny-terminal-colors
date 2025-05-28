@@ -1,4 +1,5 @@
 # tiny-terminal-colors
+![Tiny Terminal Colors logo](https://raw.githubusercontent.com/PatelAbhay550/Abhay-Posts-Media/refs/heads/main/public/Tiny-Terminal-Colors.png)
 
 🎨 A lightweight, zero-dependency Node.js package to colorize your terminal output using ANSI escape codes. Supports **foreground**, **background**, **bright variants**, and **text styles** — just like `chalk`.
 
